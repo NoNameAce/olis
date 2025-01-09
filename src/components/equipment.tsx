@@ -1,7 +1,6 @@
 import Image from 'next/image'
 import img_0_9 from '@/app/img/0_9 1.png';
 import om1 from '@/app/img/ОМП-1 1.png';
-import olisTextLogo from '@/app/img/Слой 0 1.png';
 import hz1 from '@/app/img/НЗ 1.png';
 
 

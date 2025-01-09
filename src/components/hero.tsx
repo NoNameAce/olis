@@ -1,6 +1,5 @@
 import Image from 'next/image'
 import { Facebook, Linkedin, Youtube } from 'lucide-react'
-import maskGroup1 from '@/app/img/Mask Group (1).png';
 
 
 export default function Hero() {

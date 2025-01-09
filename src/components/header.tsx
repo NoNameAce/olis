@@ -5,33 +5,6 @@ import Image from 'next/image'
 import { ChevronDown, Search, Menu } from 'lucide-react'
 import { useState } from 'react'
 
-import img_0_9 from '@/app/img/0_9 1.png';
-import workerTechnologicalProcess from '@/app/img/bearded-worker-controlling-technological-process-GB3JE9D 1.png';
-import group100 from '@/app/img/Group 100.png';
-import group101 from '@/app/img/Group 101.png';
-import group104 from '@/app/img/Group 104.png';
-import group134 from '@/app/img/Group 134.png';
-import image20 from '@/app/img/image 20.png';
-import logo31 from '@/app/img/logo 31.png';
-import logo32 from '@/app/img/logo 32.png';
-import logo33 from '@/app/img/logo 33.png';
-import logo34 from '@/app/img/logo 34 (1).png';
-import logo35 from '@/app/img/logo 35.png';
-import maskGroup1 from '@/app/img/Mask Group (1).png';
-import maskGroup2 from '@/app/img/Mask Group (2).png';
-import maskGroup3 from '@/app/img/Mask Group (3).png';
-import maskGroup4 from '@/app/img/Mask Group (4).png';
-import maskGroup6 from '@/app/img/Mask Group (6).png';
-import maskGroup7 from '@/app/img/Mask Group (7).png';
-import maskGroup8 from '@/app/img/Mask Group (8).png';
-import maskGroup9 from '@/app/img/Mask Group (9).png';
-import maskGroup10 from '@/app/img/Mask Group (10).png';
-import maskGroup11 from '@/app/img/Mask Group (11).png';
-import maskGroup12 from '@/app/img/Mask Group (12).png';
-import bcm1000 from '@/app/img/BCM-1000 1.png';
-import hz1 from '@/app/img/НЗ 1.png';
-import om1 from '@/app/img/ОМП-1 1.png';
-import olisTextLogo from '@/app/img/Слой 0 1.png';
 import olisLogo from '@/app/img/Слой 0 2.png';
 
 
